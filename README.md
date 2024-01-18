@@ -10,8 +10,10 @@ Practice week 1 of Software Achitecture and Design subject
 <img width="1340" alt="Ảnh màn hình 2024-01-19 lúc 00 40 38" src="https://github.com/tranquanghuy-09/SoftwareArchitecture-Week1/assets/107989088/eff76438-ba78-4e81-866a-978366e0c989">
 
 ## Demo
-### http://localhost:8080/users/2
-![Ảnh màn hình 2024-01-19 lúc 00 43 28](https://github.com/tranquanghuy-09/SoftwareArchitecture-Week1/assets/107989088/3ef310b5-3937-4d75-a787-25e3057e0fcc)
+### http://localhost:8080/api/users/2
+![Ảnh màn hình 2024-01-19 lúc 01 00 57](https://github.com/tranquanghuy-09/SoftwareArchitecture-Week1/assets/107989088/09ced051-2c18-4660-8a23-82f0aae123ee)
 
-### http://localhost:8081/products/2
-![Ảnh màn hình 2024-01-19 lúc 00 43 46](https://github.com/tranquanghuy-09/SoftwareArchitecture-Week1/assets/107989088/c7b23b51-3984-4067-84be-7d48f409e139)
+
+### http://localhost:8081/api/products/2
+![Ảnh màn hình 2024-01-19 lúc 01 01 13](https://github.com/tranquanghuy-09/SoftwareArchitecture-Week1/assets/107989088/d703b4e8-46a4-48d0-b1f0-95f7fac9c526)
+
