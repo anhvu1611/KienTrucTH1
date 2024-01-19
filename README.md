@@ -17,3 +17,5 @@ Practice week 1 of Software Achitecture and Design subject
 ### http://localhost:8081/api/products/2
 ![Ảnh màn hình 2024-01-19 lúc 01 01 13](https://github.com/tranquanghuy-09/SoftwareArchitecture-Week1/assets/107989088/d703b4e8-46a4-48d0-b1f0-95f7fac9c526)
 
+### Enterprise Achitecture
+![Ảnh màn hình 2024-01-19 lúc 14 13 11](https://github.com/tranquanghuy-09/SoftwareArchitecture-Week1/assets/107989088/2d1ffb61-7aa2-4423-9dab-1a0d273b7cac)
